@@ -1,4 +1,4 @@
-# ryhm-ty-
+# ryhm-työ
 
 ## | JS | CSS | HTML |
 ## |Manu|Manu|Katrin|
